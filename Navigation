@@ -1,9 +1,9 @@
 {
   "data": [
 {
-      "admob_interstitial":"ca-app-pub-1609230139852299/9100693929",
-      "admob_native":"ca-app-pub-1609230139852299/1908599617",
-      "admob_banner":"ca-app-pub-1609230139852299/6193644778",
+      "admob_interstitial":"/21952429235,22644075336/TTS_CUSTOMNAVIGATIONCONTROLBAR_INTERSTITIAL",
+      "admob_native":"/21952429235,22644075336/TTS_CUSTOMNAVIGATIONCONTROLBAR_NATIVE_AD",
+      "admob_banner":"/21952429235,22644075336/TTS_CUSTOMNAVIGATIONCONTROLBAR_BANNER_AD	",
       "ispurchaseItem":"1"
 }
 ]
