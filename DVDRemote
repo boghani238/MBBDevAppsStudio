@@ -1,10 +1,10 @@
 {
   "data": [
 {
-      "admob_interstitial":"ca-app-pub-4820572099490810/5059476759",
-      "admob_native":"ca-app-pub-4820572099490810/6432445781",
-      "admob_banner":"ca-app-pub-4820572099490810/3279668835",
-      "admob_appopen":"ca-app-pub-4820572099490810/9928660054",
+      "admob_interstitial":"/21952429235,22644075336/TTS_DVDPLAYERREMOTECONTROL_INTERSTITIAL",
+      "admob_native":"/21952429235,22644075336/TTS_DVDPLAYERREMOTECONTROL_NATIVE_AD",
+      "admob_banner":"/21952429235,22644075336/TTS_DVDPLAYERREMOTECONTROL_BANNER_AD",
+      "admob_appopen":"/21952429235,22644075336/TTS_DVDPLAYERREMOTECONTROL_OPEN_AD",
       "ispurchaseItem":"1"
 }
 ]
